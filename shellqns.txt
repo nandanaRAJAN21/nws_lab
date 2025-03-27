@@ -1,2 +1,3 @@
-write a shell program to check whether a given nu7mber isa even or odd using function
-write a shell program to find the area and circumference of circle using function.
+write a shell program to check whether a given nu7mber isa even or odd using function.
+write a shell program to find the area and circumference of circle.
+Write a shell program to check the given number and it's reverse are same.
